@@ -25,7 +25,7 @@
     "core-js": "3.4.2",
     "reflect-metadata": "0.1.13",
     "rxjs": "5.5.8",
-    "zone.js": "0.8.20",
+    "zone.js": "0.10.2",
     "angular2-in-memory-web-api": "0.0.21",
     "bootstrap": "3.4.1"
   },
