@@ -22,7 +22,7 @@
     "@angular/router-deprecated": "2.0.0-rc.2",
     "@angular/upgrade": "8.2.14",
     "systemjs": "0.21.2",
-    "core-js": "3.4.2",
+    "core-js": "3.6.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "5.5.8",
     "zone.js": "0.8.20",
